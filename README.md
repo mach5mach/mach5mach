@@ -3,4 +3,4 @@
 - 🌱 I’m currently working in C++, OpenGL, GLSL, GLM, ASSIMP, Tensorflow, and OpenCV
 - 💞️ I’m looking to collaborate on apps that use computer vision to help people with exercise and improved body mechanics
 - 📫 How to reach me mark.w.geise@gmail.com
-- Other interests: Family, soccer (mostly watching these days), art especially 3D animation movies, former physical therapist, Bitcoin, video games
+- Other interests: Family, chess, soccer, art especially 3D animation movies, former physical therapist, Bitcoin, video games
